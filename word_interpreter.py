@@ -198,8 +198,8 @@ def main():
             break
 
 #Run the program
-# if __name__ == '__main__':
-#     main()
+if __name__ == '__main__':
+    main()
 
 #Reset the sign_language data
 
